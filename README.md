@@ -3,8 +3,6 @@
 
 An interactive **Call Center Dashboard** built using **Microsoft Excel**, **Power Query**, **Slicers**, and **DAX** to analyze and visualize call center performance metrics.
 
-<img width="1650" height="682" alt="image" src="https://github.com/user-attachments/assets/f349558c-08dc-429d-a9f1-5bbe7c6945ec" />
-
 ## 📌 Overview
 This dashboard provides a comprehensive view of call center operations, enabling better decision-making through interactive and dynamic reporting.  
 It allows managers to quickly track **call volumes, response times, agent performance, customer satisfaction**, and other key metrics.
@@ -33,7 +31,8 @@ It allows managers to quickly track **call volumes, response times, agent perfor
 
 
 ## 📷 Dashboard Preview
-> *(Add a screenshot of your dashboard here)*
+<img width="1650" height="682" alt="image" src="https://github.com/user-attachments/assets/ee319770-4028-4a81-87c1-dc5b53a85a00" />
+
 
 ## 📊 Data Source
 The sample dataset contains:
